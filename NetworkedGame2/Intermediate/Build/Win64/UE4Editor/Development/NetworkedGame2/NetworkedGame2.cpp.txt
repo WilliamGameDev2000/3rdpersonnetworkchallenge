@@ -1,0 +1,2 @@
+C:\Users\William\Documents\GitHub\NetworkedGame2\Intermediate\Build\Win64\UE4Editor\Development\NetworkedGame2\Definitions.NetworkedGame2.h
+C:\Users\William\Documents\GitHub\NetworkedGame2\Source\NetworkedGame2\NetworkedGame2.h
